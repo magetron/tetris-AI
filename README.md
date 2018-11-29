@@ -36,3 +36,13 @@ You can enable autoplay by default by editing te_settings.py
 You can beat the included random strategy with some pretty dumb solutions.  You only have to beat random to achieve a pass mark.
 
 Exhaustive search won't work for this problem.  Searching all the positions and rotations for the only current tetronimo can do quite well, if you can come up with a good way to score the position.  Searching all the positions and rotations for the current and next tetronimo can do a bit better, but only if you've a good way to score the final position.
+
+# Source Code for Tetris autoplayer
+
+This is the source code of a autoplayer embedded with the tetris game above.
+
+> Author : Patrick Wu
+
+> Email : me@wudaiqi.com
+
+> Stream : [twitch.tv/magetron1](https://twitch.tv/magetron1)
